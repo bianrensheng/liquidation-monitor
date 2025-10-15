@@ -12,9 +12,9 @@
 
 **⚠️ Important Notice**: Binance liquidation data may be underreported (potentially by 100x), this system data is for reference only, actual liquidation scale may be much larger than displayed.
 
-## 🚀 在线演示 / Live Demo
+## 🚀 快速体验 / Quick Experience
 
-**[点击体验 / Click to Experience](https://bianrensheng.github.io/liquidation-monitor/)**
+**本地运行体验**: 按照下方使用说明在本地运行程序即可体验完整功能
 
 ## ✨ 功能特性 / Features
 
